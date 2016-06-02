@@ -47,7 +47,7 @@
                         <h2>ABOUT ME
                         </h2>
                         <p>
-                            Hello, I’m a UI/UX Designer & Front End Developer from Victoria, Australia. I hold a master degree of Web Design from the World University.And scrambled it to make a type specimen book. It has survived not only five centuries
+                            Hello, I’m a UI/UX Designer & Front End Developer from Barrie, Ontario. I am currently working towards my computer programmer analyst degree at Georgian College. Holo, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat.
                         </p>
                         <p>
                             Lorem ipsum dolor sit amet, consectetur adipisicing elit. Error, adipisci voluptatum repudiandae, natus impedit repellat aut officia illum at assumenda iusto reiciendis placeat. Temporibus, vero.
