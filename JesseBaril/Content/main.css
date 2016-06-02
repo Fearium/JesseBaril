@@ -122,8 +122,13 @@ a:hover {
   transition: .3s all;
   text-transform: uppercase;
 }
+
+
 #top-bar .main-menu li a:hover {
   color: #02bdd5;
+}
+#top-bar .main-menu li .active {
+  background: #02bdd5;
 }
 .navbar-custom .nav li > a {
   position: relative;
