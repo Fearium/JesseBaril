@@ -80,13 +80,20 @@
     <Content Include="Content\slider.css" />
     <Content Include="Default.aspx" />
     <Content Include="Fonts\ionicons.svg" />
-    <Content Include="images\avater-1.jpg" />
-    <Content Include="images\avater-2.jpg" />
-    <Content Include="images\avater.jpg" />
-    <Content Include="images\favicon.ico" />
-    <Content Include="images\logo.png" />
-    <Content Include="images\slider.jpg" />
-    <Content Include="images\team.jpg" />
+    <Content Include="images\about.jpg" />
+    <Content Include="images\close.png" />
+    <Content Include="images\desk.jpg" />
+    <Content Include="images\i_next.png" />
+    <Content Include="images\i_prev.png" />
+    <Content Include="images\JesseBaril.jpg" />
+    <Content Include="images\left.png" />
+    <Content Include="images\map-marker.png" />
+    <Content Include="images\next.png" />
+    <Content Include="images\NorthStar.jpg" />
+    <Content Include="images\prev.png" />
+    <Content Include="images\ProvixSite.jpg" />
+    <Content Include="images\quotes.png" />
+    <Content Include="images\right.png" />
     <Content Include="packages.config" />
     <Content Include="Default.Master" />
     <Content Include="Fonts\ionicons.eot" />
@@ -108,6 +115,7 @@
     <Content Include="Scripts\jquery.fancybox.js" />
     <Content Include="Scripts\jquery.min.js" />
     <Content Include="Scripts\main.js" />
+    <Content Include="Scripts\modernizr-2.6.2.min.js" />
     <Content Include="Scripts\owl.carousel.min.js" />
     <Content Include="Scripts\slider.js" />
     <Content Include="Scripts\wow.min.js" />
@@ -168,14 +176,6 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />
-    <Folder Include="images\about\" />
-    <Folder Include="images\author\" />
-    <Folder Include="images\blog\" />
-    <Folder Include="images\clients\" />
-    <Folder Include="images\icons\" />
-    <Folder Include="images\portfolio\" />
-    <Folder Include="images\team\" />
-    <Folder Include="Scripts\vendor\" />
   </ItemGroup>
   <PropertyGroup>
     <VisualStudioVersion Condition="'$(VisualStudioVersion)' == ''">10.0</VisualStudioVersion>
