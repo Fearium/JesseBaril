@@ -131,7 +131,7 @@
 
     <!-- JS Section -->
     <!-- modernizr js -->
-    <script src="Scripts/vendor/modernizr-2.6.2.min.js"></script>
+    <script src="Scripts/modernizr-2.6.2.min.js"></script>
     <!-- jquery -->
     <script src="//ajax.googleapis.com/ajax/libs/jquery/1.10.2/jquery.min.js"></script>
     <!-- owl carouserl js -->

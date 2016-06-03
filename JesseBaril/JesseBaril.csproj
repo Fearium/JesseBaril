@@ -80,13 +80,13 @@
     <Content Include="Content\slider.css" />
     <Content Include="Default.aspx" />
     <Content Include="Fonts\ionicons.svg" />
-    <Content Include="Images\avater-1.jpg" />
-    <Content Include="Images\avater-2.jpg" />
-    <Content Include="Images\avater.jpg" />
-    <Content Include="Images\favicon.ico" />
-    <Content Include="Images\logo.png" />
-    <Content Include="Images\slider.jpg" />
-    <Content Include="Images\team.jpg" />
+    <Content Include="images\avater-1.jpg" />
+    <Content Include="images\avater-2.jpg" />
+    <Content Include="images\avater.jpg" />
+    <Content Include="images\favicon.ico" />
+    <Content Include="images\logo.png" />
+    <Content Include="images\slider.jpg" />
+    <Content Include="images\team.jpg" />
     <Content Include="packages.config" />
     <Content Include="Default.Master" />
     <Content Include="Fonts\ionicons.eot" />
@@ -168,13 +168,13 @@
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Assets\" />
-    <Folder Include="Images\about\" />
-    <Folder Include="Images\author\" />
-    <Folder Include="Images\blog\" />
-    <Folder Include="Images\clients\" />
-    <Folder Include="Images\icons\" />
-    <Folder Include="Images\portfolio\" />
-    <Folder Include="Images\team\" />
+    <Folder Include="images\about\" />
+    <Folder Include="images\author\" />
+    <Folder Include="images\blog\" />
+    <Folder Include="images\clients\" />
+    <Folder Include="images\icons\" />
+    <Folder Include="images\portfolio\" />
+    <Folder Include="images\team\" />
     <Folder Include="Scripts\vendor\" />
   </ItemGroup>
   <PropertyGroup>
