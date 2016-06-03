@@ -55,7 +55,7 @@
                 </div>
                 <div class="col-md-6 col-sm-6">
                     <div class="block wow fadeInRight" data-wow-delay=".3s" data-wow-duration="500ms">
-                        <img src="images/about/about.jpg" alt="">
+                        <img src="images/about.jpg" alt="">
                     </div>
                 </div>
             </div>
@@ -78,10 +78,10 @@
                 <div class="col-sm-4 col-xs-12">
                     <figure class="wow fadeInLeft animated portfolio-item" data-wow-duration="500ms" data-wow-delay="0ms">
                         <div class="img-wrapper">
-                            <img src="images/portfolio/ProvixSite.jpg" class="img-responsive" alt="Provix.net">
+                            <img src="images/ProvixSite.jpg" class="img-responsive" alt="Provix.net">
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a rel="gallery" class="fancybox" href="images/portfolio/ProvixSite.jpg">View</a>
+                                    <a rel="gallery" class="fancybox" href="images/ProvixSite.jpg">View</a>
                                     <a target="_blank" href="http://provix.net/">Visit</a>
                                 </div>
                             </div>
@@ -100,10 +100,10 @@
                 <div class="col-sm-4 col-xs-12">
                     <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                         <div class="img-wrapper">
-                            <img src="images/portfolio/NorthStar.jpg" class="img-responsive" alt="Northstar Tournaments">
+                            <img src="images/NorthStar.jpg" class="img-responsive" alt="Northstar Tournaments">
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a rel="gallery" class="fancybox" href="images/portfolio/NorthStar.jpg">View</a>
+                                    <a rel="gallery" class="fancybox" href="images/NorthStar.jpg">View</a>
                                     <a target="_blank" href="http://northstartournaments.azurewebsites.net/">Visit</a>
                                 </div>
                             </div>
@@ -122,10 +122,10 @@
                 <div class="col-sm-4 col-xs-12">
                     <figure class="wow fadeInLeft animated" data-wow-duration="500ms" data-wow-delay="300ms">
                         <div class="img-wrapper">
-                            <img src="images/portfolio/JesseBaril.jpg" class="img-responsive" alt="">
+                            <img src="images/JesseBaril.jpg" class="img-responsive" alt="">
                             <div class="overlay">
                                 <div class="buttons">
-                                    <a rel="gallery" class="fancybox" href="images/portfolio/JesseBaril.jpg">View</a>
+                                    <a rel="gallery" class="fancybox" href="images/JesseBaril.jpg">View</a>
                                     <a target="_blank" href="Default.aspx">Visit</a>
                                 </div>
                             </div>

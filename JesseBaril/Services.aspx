@@ -73,7 +73,7 @@
                 </div>
                 <div class="col-md-6">
                     <div class="block">
-                        <img class="img-responsive" src="images/team.jpg" alt="">
+                        <img class="img-responsive" src="images/about.jpg" alt="">
                     </div>
                 </div>
             </div>
