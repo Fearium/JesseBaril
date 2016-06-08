@@ -83,10 +83,12 @@
     <Content Include="images\about.jpg" />
     <Content Include="images\close.png" />
     <Content Include="images\desk.jpg" />
+    <Content Include="images\favicon.ico" />
     <Content Include="images\i_next.png" />
     <Content Include="images\i_prev.png" />
     <Content Include="images\JesseBaril.jpg" />
     <Content Include="images\left.png" />
+    <Content Include="images\logo.png" />
     <Content Include="images\map-marker.png" />
     <Content Include="images\next.png" />
     <Content Include="images\NorthStar.jpg" />
@@ -94,6 +96,7 @@
     <Content Include="images\ProvixSite.jpg" />
     <Content Include="images\quotes.png" />
     <Content Include="images\right.png" />
+    <Content Include="images\slider.jpg" />
     <Content Include="packages.config" />
     <Content Include="Default.Master" />
     <Content Include="Fonts\ionicons.eot" />
